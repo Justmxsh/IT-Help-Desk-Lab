@@ -47,14 +47,14 @@ net use
 
 ## Tickets
 
-- [Ticket 1 — Account Locked Out](Tickets/Ticket-01-Account-Locked-Out.md)
-- [Ticket 2 — Internet Access](Tickets/Ticket-02-Internet-Access.md)
-- [Ticket 3 — Printer Issue](Tickets/Ticket-03-Printer-Issue.md)
-- [Ticket 4 — Suspicious Email](Tickets/Ticket-04-Suspicious-Email.md)
-- [Ticket 5 — Slow Computer](Tickets/Ticket-05-Slow-Computer.md)
-- [Ticket 6 — Software Installation](Tickets/Ticket-06-Software-Installation.md)
-- [Ticket 7 — VPN Connection](Tickets/Ticket-07-VPN-Connection.md)
-- [Ticket 8 — Shared Drive Access](Tickets/Ticket-08-Shared-Drive.md)
+- [Ticket 1 — Account Locked Out](Tickets/Ticket-1-Account-Locked-Out.md)
+- [Ticket 2 — Internet Access](Tickets/Ticket-2-Internet-Access.md)
+- [Ticket 3 — Printer Issue](Tickets/Ticket-3-Printer-Issue.md)
+- [Ticket 4 — Suspicious Email](Tickets/Ticket-4-Suspicious-Email.md)
+- [Ticket 5 — Slow Computer](Tickets/Ticket-5-Slow-Computer.md)
+- [Ticket 6 — Software Installation](Tickets/Ticket-6-Software-Installation.md)
+- [Ticket 7 — VPN Connection](Tickets/Ticket-7-VPN-Connection.md)
+- [Ticket 8 — Shared Drive Access](Tickets/Ticket-8-Shared-Drive.md)
 
 
 
