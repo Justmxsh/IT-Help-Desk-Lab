@@ -1,0 +1,53 @@
+# Ticket 2 — VPN Connection Failure
+
+## Issue
+User reported being unable to connect to the company VPN.
+
+## User Impact
+The user was unable to establish a VPN connection to access company resources remotely.
+
+## Troubleshooting Performed
+
+Confirmed the user had working internet access.
+Confirmed the VPN had worked previously.
+Checked the Cisco Secure Client.
+Verified the Cisco VPN service was running.
+Checked Windows Firewall status.
+Checked network adapters for errors.
+Confirmed the Cisco Secure Client virtual adapter was present.
+Checked the VPN client logs.
+Ran network troubleshooting commands:
+  - `ipconfig /all`
+  - `ping vpn.company.local`
+  - `nslookup vpn.company.local`
+Confirmed the VPN hostname could not be resolved.
+Restarted the workstation and retested the VPN.
+
+## Findings
+
+The workstation was unable to resolve the internal VPN hostname. The Cisco Secure Client service and virtual network adapter were functioning normally.
+The issue required further investigation of the company's VPN/DNS configuration.
+
+## Resolution
+The issue was documented and ecalated to the appropriate Network/VPN support team.
+
+## Ticket Status
+*Escalated*
+
+## Skills Demonstrated
+
+VPN troubleshooting
+DNS troubleshooting
+Windows networking
+Cisco Secure Client
+Command Prompt
+`ipconfig`
+`ping`
+`nslookup`
+Windows Services
+Device Manager
+Incident documentation
+Ticket escalation
+
+
+
