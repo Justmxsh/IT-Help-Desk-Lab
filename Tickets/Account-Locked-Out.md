@@ -28,3 +28,8 @@ Windows/Active Directory concepts
 Identity verification
 User communication
 Ticket documentation
+
+# Screenshot
+![Ticket 1 - Account Locked Out](./E07F94E5-F152-4F89-BD52-407993878A5A.JPEG)
+
+
